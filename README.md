@@ -33,7 +33,7 @@ ki113d:f84315fdf36e0ff0da874d8a5728d337
 ~~~
 will be written to the output file as:
 ~~~
-ki113d:23eeeb4347bdd26bfc6b7ee9a3b755dd
+ki113d:python
 ~~~
 
 ###Single mode:
